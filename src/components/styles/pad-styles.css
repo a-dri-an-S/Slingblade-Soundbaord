@@ -6,13 +6,16 @@
 }
 
 .sb-pad-btn {
-    height: 100px;
-    width: 100px;
-    margin-bottom: 10px;
+    display: absolute;
+    height: 50px;
+    width: 50px;
+    
+    margin: 8px 5px;
 }
 
 .sb-pad-label {
-    margin-bottom: 10px;
+    /* position: relative; */
+    padding-bottom: 50px;
     font-size: 14px;
     color: white;
     font-weight: 500;

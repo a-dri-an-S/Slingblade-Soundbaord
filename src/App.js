@@ -70,7 +70,7 @@ function App() {
 
   const doyleTracks = [
     {name: "i ain't scared", handleClick: () => sampler.current.triggerAttack('C2')},
-    {name: "cocksuckers", handleClick: () => sampler.current.triggerAttack('D2')},
+    {name: "cock suckers", handleClick: () => sampler.current.triggerAttack('D2')},
     {name: "crazy retard", handleClick: () => sampler.current.triggerAttack('E2')},
     {name: "beat the dogshit", handleClick: () => sampler.current.triggerAttack('F2')},
     {name: "doornail", handleClick: () => sampler.current.triggerAttack('G2')},
@@ -81,7 +81,7 @@ function App() {
     {name: "homo", handleClick: () => sampler.current.triggerAttack('E3')},
     {name: "how retarded", handleClick: () => sampler.current.triggerAttack('F3')},
     {name: "ill kill you", handleClick: () => sampler.current.triggerAttack('G3')},
-    {name: "motherfuckers", handleClick: () => sampler.current.triggerAttack('A4')},
+    {name: "mother fuckers", handleClick: () => sampler.current.triggerAttack('A4')},
     {name: "pissout", handleClick: () => sampler.current.triggerAttack('B4')},
     {name: "pussy", handleClick: () => sampler.current.triggerAttack('C4')},
     {name: "wimpy retard", handleClick: () => sampler.current.triggerAttack('D4')},
