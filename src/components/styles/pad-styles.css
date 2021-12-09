@@ -1,0 +1,19 @@
+.sb-pad {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sb-pad-btn {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.sb-pad-label {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: white;
+    font-weight: 500;
+}

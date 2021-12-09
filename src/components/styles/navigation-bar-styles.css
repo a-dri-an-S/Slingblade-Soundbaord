@@ -1,0 +1,19 @@
+.nav-bar {
+    font-size: 24px;
+    color: white;
+}
+
+.nav-bar-link {
+    text-decoration: none;
+    color: inherit;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.nav-bar-link:hover {
+    color: rgb(160, 160, 160);
+}
+
+.nav-bar-link:active {
+    color: rgb(72, 72, 72);
+}

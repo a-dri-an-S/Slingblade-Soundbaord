@@ -1,0 +1,8 @@
+
+.pads-grid {
+    display: grid;
+    grid-column: auto;
+    grid-template-rows: 120px 120px 120px 120px;
+    grid-template-columns: 120px 120px 120px 120px;
+    margin: 30px;
+}
